@@ -1,4 +1,4 @@
-# zeebe-node-js
+# cube-node-js
 
 ## Getting a Sample Dataset
 Since MongoDB is a nonrelational database it needs to be sampled into a relational DB such as a MySQL database. The mongoBI connector does this job smartly by letting you run your MySQL queries on your MongoDB.
@@ -23,6 +23,7 @@ $ bin/mongod
 # Run from MongoDB BI Connector directory
 $ bin/mongosqld
 ```
+
 
 ## Getting Started with Cube.js using Node.js
 
